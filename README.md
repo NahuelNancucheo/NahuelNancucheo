@@ -28,12 +28,12 @@
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nahuelnancucheo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nahuelnancucheo" height="30" width="40" /></a>
- <a href="https://linkedin.com/in/nahuel-nancucheo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nahuel-nancucheo" height="30" width="40" /></a>
+<a href="https://twitter.com/nahuelnancucheo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" title="Twitter" alt="nahuelnancucheo" height="30" width="40" /></a>
+ <a href="https://linkedin.com/in/nahuel-nancucheo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" title="Linkedin" alt="nahuel-nancucheo" height="30" width="40" /></a>
 </p>
 
 <hr></hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahuelnancucheo&show_icons=true&locale=en&layout=compact" alt="nahuelnancucheo" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahuelnancucheo&show_icons=true&locale=en&layout=compact"  alt="nahuelnancucheo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nahuelnancucheo&show_icons=true&locale=en" alt="nahuelnancucheo" /></p>
 

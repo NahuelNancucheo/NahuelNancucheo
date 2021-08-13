@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nahuel</h1>
 <h3 align="center">A Fullstasck web developer</h3>
 
-- 🌱 I’m currently learning **React Native, Typescript & MongoDB**
+- 🌱 I’m currently learning **Next.js, Typescript, React Native& MongoDB**
 
 - 📫 How to reach me **nahuel.nancucheo@outlook.com**
 <hr></hr>

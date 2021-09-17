@@ -29,6 +29,16 @@
  <a href="https://linkedin.com/in/nahuel-nancucheo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" title="Linkedin" alt="nahuel-nancucheo" height="30" width="40" /></a>
 </p>
 
+# Projects
+
+## -Pokemon App:
+![20210917_002418](https://user-images.githubusercontent.com/81537168/133719263-450e08a6-2528-4c60-9f17-b2049a7e3207.gif)
+
+## -Wipit Board:
+[https://www.youtube.com/watch?v=CSsvU37NnDw&ab_channel=FabiolaSu%C3%A1rez](url)
+
+
+
 <hr></hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahuelnancucheo&show_icons=true&locale=en&layout=compact"  alt="nahuelnancucheo" /></p>
 

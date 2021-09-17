@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next.js, Typescript & MongoDB**
 
-- 📫 How to reach me **nahuel.nancucheo@outlook.com**
+- 📫 How to reach me: **nahuel.nancucheo@outlook.com**
 <hr></hr>
 
 <h3 align="left">Tech stack:</h3>

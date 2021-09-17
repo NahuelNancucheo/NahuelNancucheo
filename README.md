@@ -28,6 +28,7 @@
 <a href="https://twitter.com/nahuelnancucheo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" title="Twitter" alt="nahuelnancucheo" height="30" width="40" /></a>
  <a href="https://linkedin.com/in/nahuel-nancucheo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" title="Linkedin" alt="nahuel-nancucheo" height="30" width="40" /></a>
 </p>
+<hr></hr>
 
 # Projects
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nahuel</h1>
-<h3 align="center">A Fullstasck web developer</h3>
+<h3 align="center">a Full Stack Developer oriented to front-end development.</h3>
 
 - 🌱 I’m currently learning **Next.js, Typescript & MongoDB**
 
@@ -35,7 +35,7 @@
 ![20210917_002418](https://user-images.githubusercontent.com/81537168/133719263-450e08a6-2528-4c60-9f17-b2049a7e3207.gif)
 
 ## -Wipit Board:
-[https://www.youtube.com/watch?v=CSsvU37NnDw&ab_channel=FabiolaSu%C3%A1rez](url)
+https://www.youtube.com/watch?v=CSsvU37NnDw&ab_channel=FabiolaSu%C3%A1rez
 
 
 

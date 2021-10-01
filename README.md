@@ -39,7 +39,7 @@ https://www.youtube.com/watch?v=CSsvU37NnDw&ab_channel=FabiolaSu%C3%A1rez
 ![20210917_002418](https://user-images.githubusercontent.com/81537168/133719263-450e08a6-2528-4c60-9f17-b2049a7e3207.gif)
 
 ## -Sliding Puzzle:
-https://slidding-puzzle-react.vercel.app/
+https://sliding-puzzle-react.vercel.app/
 
 <hr></hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahuelnancucheo&show_icons=true&locale=en&layout=compact"  alt="nahuelnancucheo" /></p>

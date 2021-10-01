@@ -38,6 +38,8 @@ https://www.youtube.com/watch?v=CSsvU37NnDw&ab_channel=FabiolaSu%C3%A1rez
 ## -Pokemon App:
 ![20210917_002418](https://user-images.githubusercontent.com/81537168/133719263-450e08a6-2528-4c60-9f17-b2049a7e3207.gif)
 
+## -Slidding Puzzle:
+https://slidding-puzzle-react.vercel.app/
 
 <hr></hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahuelnancucheo&show_icons=true&locale=en&layout=compact"  alt="nahuelnancucheo" /></p>
@@ -45,7 +47,3 @@ https://www.youtube.com/watch?v=CSsvU37NnDw&ab_channel=FabiolaSu%C3%A1rez
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nahuelnancucheo&show_icons=true&locale=en" alt="nahuelnancucheo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nahuelnancucheo&" alt="nahuelnancucheo" /></p>
-
-## -Slidding Puzzle:
-https://slidding-puzzle-react.vercel.app/
-

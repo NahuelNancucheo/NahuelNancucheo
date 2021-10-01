@@ -38,7 +38,7 @@ https://www.youtube.com/watch?v=CSsvU37NnDw&ab_channel=FabiolaSu%C3%A1rez
 ## -Pokemon App:
 ![20210917_002418](https://user-images.githubusercontent.com/81537168/133719263-450e08a6-2528-4c60-9f17-b2049a7e3207.gif)
 
-## -Slidding Puzzle:
+## -Sliding Puzzle:
 https://slidding-puzzle-react.vercel.app/
 
 <hr></hr>
